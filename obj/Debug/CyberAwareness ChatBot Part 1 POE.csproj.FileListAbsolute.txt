@@ -1,0 +1,28 @@
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\CyberAwareness ChatBot Part 1 POE.exe.config
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\CyberAwareness ChatBot Part 1 POE.exe
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\CyberAwareness ChatBot Part 1 POE.pdb
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Asio.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Core.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Midi.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Wasapi.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.WinForms.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.WinMM.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\System.Security.AccessControl.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Asio.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Core.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Midi.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.Wasapi.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.WinForms.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\NAudio.WinMM.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\System.Security.AccessControl.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\obj\Debug\CyberAwareness ChatBot Part 1 POE.csproj.AssemblyReference.cache
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\obj\Debug\CyberAwareness ChatBot Part 1 POE.csproj.CoreCompileInputs.cache
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\obj\Debug\CyberAwa.BD8C85C3.Up2Date
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\obj\Debug\CyberAwareness ChatBot Part 1 POE.exe
+C:\Users\z1o2d\OneDrive\Documents\GitHub\POE-Part1-Kaiyur-Khedun---ChatBot\obj\Debug\CyberAwareness ChatBot Part 1 POE.pdb
